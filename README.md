@@ -11,7 +11,7 @@
 
 ## 🚀 Projects  
 ### 🔭 **Portfolio**
-- [Link to your portfolio website](https://boominathan2355.github.io/Portfolio/)
+- [portfolio website](https://boominathan2355.github.io/Portfolio/)
 
 ### 🌱 **Currently Working On:**  
 - An **IoT project** with **multiple sensors**.
@@ -23,7 +23,6 @@
 - **ML/AI & IoT projects**.
 
 ## 💻 IDE & Tools I Use  
-![IDE & Tools](https://your-image-url.com/your-image.png)  <!-- Link to your image -->
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
