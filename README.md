@@ -1,4 +1,4 @@
-![Banner](https://your-image-url.com/banner.png)  
+![Banner](https://www.imghippo.com/i/tOW7058ss.png)  
 
 # 👋 Hi, I’m **Boominathan Alagirisamy** (@Boominathan2355)  
 🔹 **IoT Enthusiast & Machine Learning Developer @ CIBIE** | **Aspiring Full Stack Developer**  
