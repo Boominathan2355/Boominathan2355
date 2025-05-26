@@ -1,97 +1,82 @@
-# 👋 Hi, I'm **Boominathan Alagirisamy** (@Boominathan2355)
+# 👋 Hi, I’m **Boominathan Alagirisamy** (@Boominathan2355)
 
-🎓 **AI & Data Science Undergraduate**
-💻 **Aspiring Full Stack Developer | Machine Learning Practitioner | Software Developer**
-🔍 Passionate about solving real-world problems with **AI, Web Technologies, and Scalable Software Systems**
+🔹 **Full Stack Developer | Machine Learning & IoT Enthusiast**
 
 ---
 
 ## 🔗 Connect with Me
 
-📧 Email: [boominathanalagirisamy@gmail.com](mailto:boominathanalagirisamy@gmail.com)
-💼 LinkedIn: [Boominathan Alagirisamy](https://www.linkedin.com/in/boominathan-alagirisamy/)
-🐙 GitHub: [@Boominathan2355](https://github.com/Boominathan2355)
-🌐 Portfolio:
-[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-4C1?style=for-the-badge\&logo=github\&logoColor=white)](https://boominathan2355.github.io/Portfolio/)
+* 📧 Email: [boominathanalagirisamy@gmail.com](mailto:boominathanalagirisamy@gmail.com)
+* 💼 LinkedIn: [Boominathan Alagirisamy](https://www.linkedin.com/in/boominathan-alagirisamy/)
+* 🌐 Portfolio: [boominathan2355.github.io/Portfolio](https://boominathan2355.github.io/Portfolio/)
+* 🐙 GitHub: [@Boominathan2355](https://github.com/Boominathan2355)
 
 ---
 
-## 💼 What I Do
+## 🚀 Featured Projects
 
-* 🌐 Build dynamic, responsive web applications using **React, Node.js, MongoDB**
-* 🤖 Develop and train machine learning models using **Python, Pandas, Scikit-learn, CNNs**
-* 🛠️ Implement backend services, REST APIs, and cloud storage solutions
-* 📊 Create real-time dashboards and monitoring systems for **IoT and Data-Driven Applications**
+### 🔹 **Offline Chatbot using Ollama and NLTK**
 
----
-
-## 🚀 Key Projects
+* Developed a fully **offline chatbot** combining **Ollama’s large language models** with **NLTK** for natural language understanding
+* Ensures **privacy** and **offline usability** without internet dependence
+* Supports context-aware and intelligent conversation handling
 
 ### 🔹 **IoT-Based Agricultural Monitoring System**
 
-* Real-time sensor data visualization using **React**
-* Cloud integration with **MongoDB + AWS**
-* Modular design for future ML-based predictive analytics
+* Real-time data collection using multiple sensor nodes for agriculture
+* Developed a React-based dashboard for live monitoring and alerts
+* Cloud data storage with MongoDB and AWS integration
+* Aims to optimize crop management and rural development
 
 ### 🔹 **Fire and Smoke Detection Using CNN**
 
-* Safety automation using deep learning & computer vision
-* Built using **OpenCV and Python**
+* Designed a convolutional neural network model for early fire and smoke detection
+* Integrated with OpenCV for real-time hazard monitoring
+* Enhances emergency response and safety
 
-### 🔹 **2D to 3D Floor Plan Converter**
+### 🔹 **Transforming 2D into 3D Home Design**
 
-* Converts architectural plans into 3D models
-* Tools used: **Open3D, Blender, Python**
+* Converts 2D floor plans into detailed 3D models
+* Utilizes Open3D, Blender, and Python for visualization
+* Supports architects and designers with virtual walkthroughs
 
 ### 🔹 **CNC Laser Engraver**
 
-* Embedded system project with Arduino + GRBL firmware
-* Developed for high-precision wood engraving tasks
+* Engineered a portable CNC laser engraver with Arduino and GRBL firmware
+* Achieved precise engraving on wood using a pantograph mechanism
+* Useful for prototyping and custom design projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Skills & Tech Stack
 
-### 💻 Languages & Frameworks
+### Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🧰 Tools & Platforms
+### Tools & IDEs
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🎯 Interests & Goals
+## 🌱 Interests & Goals
 
-* ✅ Building **scalable full-stack applications**
-* ✅ Developing **AI-driven solutions** for automation and monitoring
-* ✅ Exploring **edge computing** with **IoT + ML**
-* ✅ Contributing to impactful open-source projects
-
----
-
-## 🏆 Highlights
-
-* 🎓 B.Tech AI & Data Science – *Expected Graduation: June 2026*
-* 🏅 1st Prize in Metaverse Debugging Challenge – *Oct 2024*
-* 📜 Certifications: Oracle HCM, MySQL, HackerRank SQL
+* Expanding expertise in **Full Stack Web Development** and **AI/ML applications**
+* Exploring **Edge AI**, **offline large language models**, and **IoT-driven smart solutions**
+* Seeking collaboration on innovative **AI**, **ML**, and **IoT** projects
 
 ---
 
-## 📌 Fun Fact
+## ⚡ Fun Fact
 
-> I'm driven by a single goal: **Turn real-world challenges into innovative digital solutions.**
+I enjoy leveraging technology to solve real-world challenges, especially where AI and IoT intersect to create meaningful impact.
+
