@@ -1,8 +1,10 @@
+![Banner](https://ik.imagekit.io/bn/bn/banner.jpeg?updatedAt=1748244979724)
+
 # 👋 Hi, I’m **Boominathan Alagirisamy** (@Boominathan2355)
 
 🔹 **Full Stack Developer | Machine Learning & IoT Enthusiast**
 
----
+If you want the full README text with the new banner integrated, just let me know.
 
 ## 🔗 Connect with Me
 
