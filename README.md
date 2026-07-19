@@ -1,84 +1,274 @@
 ![Banner](https://ik.imagekit.io/bn/bn/banner.jpeg?updatedAt=1748244979724)
 
-# 👋 Hi, I’m **Boominathan Alagirisamy** (@Boominathan2355)
+<div align="center">
 
-🔹 **Full Stack Developer | Machine Learning & IoT Enthusiast**
+# Boominathan Alagirisamy
 
-If you want the full README text with the new banner integrated, just let me know.
+### Software Engineer • Frontend Engineer • AI & Document Intelligence Enthusiast
 
-## 🔗 Connect with Me
+Building modern enterprise applications with React while exploring AI-powered document processing, local LLMs, and scalable software architecture.
 
-* 📧 Email: [boominathanalagirisamy@gmail.com](mailto:boominathanalagirisamy@gmail.com)
-* 💼 LinkedIn: [Boominathan Alagirisamy](https://www.linkedin.com/in/boominathan-alagirisamy/)
-* 🌐 Portfolio: [boominathan2355.github.io/Portfolio](https://boominathan2355.github.io/Portfolio/)
-* 🐙 GitHub: [@Boominathan2355](https://github.com/Boominathan2355)
+[Portfolio](https://boominathan2355.github.io/Portfolio/) •
+[LinkedIn](https://www.linkedin.com/in/boominathan-alagirisamy/) •
+[GitHub](https://github.com/Boominathan2355) •
+[Email](mailto:boominathanalagirisamy@gmail.com)
 
----
-
-## 🚀 Featured Projects
-
-### 🔹 **Offline Chatbot using Ollama and NLTK**
-
-* Developed a fully **offline chatbot** combining **Ollama’s large language models** with **NLTK** for natural language understanding
-* Ensures **privacy** and **offline usability** without internet dependence
-* Supports context-aware and intelligent conversation handling
-
-### 🔹 **IoT-Based Agricultural Monitoring System**
-
-* Real-time data collection using multiple sensor nodes for agriculture
-* Developed a React-based dashboard for live monitoring and alerts
-* Cloud data storage with MongoDB and AWS integration
-* Aims to optimize crop management and rural development
-
-### 🔹 **Fire and Smoke Detection Using CNN**
-
-* Designed a convolutional neural network model for early fire and smoke detection
-* Integrated with OpenCV for real-time hazard monitoring
-* Enhances emergency response and safety
-
-### 🔹 **Transforming 2D into 3D Home Design**
-
-* Converts 2D floor plans into detailed 3D models
-* Utilizes Open3D, Blender, and Python for visualization
-* Supports architects and designers with virtual walkthroughs
-
-### 🔹 **CNC Laser Engraver**
-
-* Engineered a portable CNC laser engraver with Arduino and GRBL firmware
-* Achieved precise engraving on wood using a pantograph mechanism
-* Useful for prototyping and custom design projects
+</div>
 
 ---
 
-## 🧠 Skills & Tech Stack
+# About Me
 
-### Programming Languages
+I'm a Software Engineer with experience developing enterprise web applications and interactive dashboards using modern frontend technologies.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+My recent work focuses on:
 
-### Tools & IDEs
+- Enterprise React applications
+- Dashboard development
+- Document validation workflows
+- API integration
+- AI-assisted document processing research
+- Local LLM experimentation
+- Software architecture and engineering best practices
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+I enjoy building software that is clean, maintainable, and solves real business problems.
 
 ---
 
-## 🌱 Interests & Goals
+# Current Focus
 
-* Expanding expertise in **Full Stack Web Development** and **AI/ML applications**
-* Exploring **Edge AI**, **offline large language models**, and **IoT-driven smart solutions**
-* Seeking collaboration on innovative **AI**, **ML**, and **IoT** projects
+- Developing enterprise frontend applications
+- Building reusable React components
+- Interactive dashboards with ECharts
+- Redux state management
+- REST API integration
+- GRC document validation workflows
+- Document Intelligence research
+- OCR workflow exploration
+- Local LLM infrastructure
+- Retrieval-Augmented Generation (RAG) architecture research
 
 ---
 
-## ⚡ Fun Fact
+# Tech Stack
 
-I enjoy leveraging technology to solve real-world challenges, especially where AI and IoT intersect to create meaningful impact.
+## Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,c" />
+</p>
+
+---
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+- Redux
+- TanStack Table
+- ECharts
+- SCSS
+- REST API Integration
+
+---
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+</p>
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+---
+
+## AI & Machine Learning
+
+- PyTorch
+- TensorFlow
+- OpenCV
+- Scikit-Learn
+- Natural Language Processing (NLP)
+- Ollama
+- Local LLMs
+- Prompt Engineering
+- Document Intelligence
+- OCR Research
+- RAG Architecture Research
+
+---
+
+## Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+# Professional Experience
+
+## Product Development Trainee
+
+**DevOpsLabs India Pvt. Ltd.**
+
+Working on enterprise software with a primary focus on frontend engineering.
+
+Current responsibilities include:
+
+- Developing React-based enterprise applications
+- Building reusable UI components
+- Implementing interactive dashboards
+- Working with Redux state management
+- Integrating REST APIs
+- Developing data-driven tables using TanStack Table
+- Creating analytical visualizations using ECharts
+- Collaborating with backend developers
+- Contributing to enterprise product development
+
+---
+
+# Featured Work
+
+## Enterprise Frontend Development
+
+Developing enterprise-grade web applications using React and modern frontend technologies.
+
+**Highlights**
+
+- React + Vite
+- Redux
+- TanStack Table
+- ECharts
+- REST APIs
+- Responsive UI
+- Component-based architecture
+
+---
+
+## GRC Validation Engine
+
+Worked on document validation workflows for governance and compliance systems.
+
+Areas of contribution and exploration include:
+
+- Document validation workflow
+- Rule-based validation concepts
+- Document processing architecture
+- OCR integration research
+- AI-assisted validation research
+
+---
+
+## Panchakarma Therapy Automation System
+
+A full-stack web application designed to streamline therapy scheduling and patient workflow management.
+
+**Technology**
+
+- React
+- Python
+- MongoDB
+
+---
+
+## Transformer Model from Scratch
+
+Academic implementation of the Transformer architecture using PyTorch to gain a deeper understanding of attention mechanisms and sequence-to-sequence models.
+
+---
+
+## IoT Agricultural Monitoring System
+
+IoT-based monitoring platform for collecting and visualizing agricultural sensor data using cloud storage and web technologies.
+
+---
+
+## Offline Chatbot
+
+Privacy-focused chatbot exploring offline language models using Ollama and natural language processing techniques.
+
+---
+
+## 2D to 3D Home Design
+
+Research project exploring automatic generation of 3D visualizations from 2D architectural floor plans using Open3D and Blender.
+
+---
+
+## Fire & Smoke Detection
+
+Computer vision project using Convolutional Neural Networks for fire and smoke detection.
+
+---
+
+## CNC Laser Engraver
+
+Mechanical engineering project involving Arduino, GRBL firmware, and CNC-based laser engraving.
+
+---
+
+# Engineering Interests
+
+- Frontend Engineering
+- Enterprise Applications
+- AI Engineering
+- Document Intelligence
+- Local LLMs
+- Software Architecture
+- Human-Centered UI
+- Performance Optimization
+- Developer Productivity
+
+---
+
+# Currently Learning
+
+- Advanced React Patterns
+- TypeScript
+- Enterprise Frontend Architecture
+- AI Engineering
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- Scalable System Design
+- Modern Software Engineering Practices
+
+---
+
+# GitHub Highlights
+
+- Enterprise application development
+- Frontend engineering
+- AI & Machine Learning
+- Document Intelligence
+- Academic research projects
+- Continuous learning
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="mailto:boominathanalagirisamy@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/boominathan-alagirisamy/">LinkedIn</a> •
+<a href="https://boominathan2355.github.io/Portfolio/">Portfolio</a> •
+<a href="https://github.com/Boominathan2355">GitHub</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Learning continuously. Building thoughtfully. Improving with every project."
+
+</div>
